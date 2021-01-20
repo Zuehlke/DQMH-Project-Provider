@@ -1,5 +1,5 @@
 # DQMH-Project-Provider
-This package adds the functionality to access the DQMH functionality not only in the top tool bar of LabVIEW, but also directly by clicking on the DQMH library in the project explorer.
+This package adds the functionality to access the DQMH functionality not only in the top tool bar of LabVIEW, but also directly by right-clicking on the DQMH library in the project explorer.
 
 ![Example of Project Provider](https://github.com/Zuehlke/DQMH-Project-Provider/blob/main/ProjectProvider.jpg)
 
