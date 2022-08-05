@@ -5,3 +5,8 @@ This package adds the functionality to access the DQMH functionality not only in
 
 For more information visit:
 https://forums.ni.com/t5/Delacor-Toolkits-Discussions/Zuehlke-Project-explorer-menu-for-DQMH/td-p/3802835?profile.language=en
+
+
+## :wrench: LabVIEW 2012
+
+The VIs are maintained in LabVIEW 2012.
